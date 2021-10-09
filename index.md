@@ -1,5 +1,6 @@
 # Skills
 ![IMG_2148](https://user-images.githubusercontent.com/90800298/136673458-12c4a10e-5c28-41f7-85fd-c0504159b37d.jpeg)
+![IMG_3020](https://user-images.githubusercontent.com/90800298/136673763-354dad1f-6c98-4546-b24a-57f9c815dea6.jpeg)
 
 ![IMG_0993](https://user-images.githubusercontent.com/90800298/136673460-a02f1066-e8a9-4bb4-9c38-47a7a2f4561e.jpeg)
 

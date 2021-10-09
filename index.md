@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+# Skills
+![IMG_2148](https://user-images.githubusercontent.com/90800298/136673458-12c4a10e-5c28-41f7-85fd-c0504159b37d.jpeg)
 
-You can use the [editor on GitHub](https://github.com/PabloArroyo2002/Rapid_Prototyping_Skills/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![IMG_0993](https://user-images.githubusercontent.com/90800298/136673460-a02f1066-e8a9-4bb4-9c38-47a7a2f4561e.jpeg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PabloArroyo2002/Rapid_Prototyping_Skills/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![65060069384__2BBE25BD-D314-4308-B9E9-297EE5B5E47F](https://user-images.githubusercontent.com/90800298/136673462-b8504af6-5ceb-44a1-9577-c55635a495af.jpeg)
+![IMG_1695](https://user-images.githubusercontent.com/90800298/136673468-3ce5b8e2-bcf9-45f3-8aea-b62478a4a5b3.jpeg)
+![IMG_1713](https://user-images.githubusercontent.com/90800298/136673469-ba4e3bb7-ee16-4efa-b5a5-f63e20e69618.jpeg)
+![IMG_2588](https://user-images.githubusercontent.com/90800298/136673470-03d85abd-4283-4f07-a79d-55ef75b8f0f5.jpeg)
+![65060069384__2BBE25BD-D314-4308-B9E9-297EE5B5E47F](https://user-images.githubusercontent.com/90800298/136673472-57baf2e6-b739-401e-81da-40c1d1987513.jpeg)
